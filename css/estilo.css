@@ -1,3 +1,8 @@
+#conteiner{
+    width: 80%; /* diminui o tamanho para ver centralizado  */
+    margin: auto; /* centralizei a caixa principal */
+    padding: -1px;
+}
 body { margin: 0; padding: 0; }
 nav { width: 100%; background: #333; float: left; padding: 10px 0px; }
 nav ul li { list-style: none; display: inline; }
